@@ -1,0 +1,12 @@
+C:\Repositorio\Proyectos de practica\Curso_Net8_MVC\BlogCore\BlogCore.Models\bin\Debug\net8.0\BlogCore.Models.deps.json
+C:\Repositorio\Proyectos de practica\Curso_Net8_MVC\BlogCore\BlogCore.Models\bin\Debug\net8.0\BlogCore.Models.dll
+C:\Repositorio\Proyectos de practica\Curso_Net8_MVC\BlogCore\BlogCore.Models\bin\Debug\net8.0\BlogCore.Models.pdb
+C:\Repositorio\Proyectos de practica\Curso_Net8_MVC\BlogCore\BlogCore.Models\obj\Debug\net8.0\BlogCore.Models.csproj.AssemblyReference.cache
+C:\Repositorio\Proyectos de practica\Curso_Net8_MVC\BlogCore\BlogCore.Models\obj\Debug\net8.0\BlogCore.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repositorio\Proyectos de practica\Curso_Net8_MVC\BlogCore\BlogCore.Models\obj\Debug\net8.0\BlogCore.Models.AssemblyInfoInputs.cache
+C:\Repositorio\Proyectos de practica\Curso_Net8_MVC\BlogCore\BlogCore.Models\obj\Debug\net8.0\BlogCore.Models.AssemblyInfo.cs
+C:\Repositorio\Proyectos de practica\Curso_Net8_MVC\BlogCore\BlogCore.Models\obj\Debug\net8.0\BlogCore.Models.csproj.CoreCompileInputs.cache
+C:\Repositorio\Proyectos de practica\Curso_Net8_MVC\BlogCore\BlogCore.Models\obj\Debug\net8.0\BlogCore.Models.dll
+C:\Repositorio\Proyectos de practica\Curso_Net8_MVC\BlogCore\BlogCore.Models\obj\Debug\net8.0\refint\BlogCore.Models.dll
+C:\Repositorio\Proyectos de practica\Curso_Net8_MVC\BlogCore\BlogCore.Models\obj\Debug\net8.0\BlogCore.Models.pdb
+C:\Repositorio\Proyectos de practica\Curso_Net8_MVC\BlogCore\BlogCore.Models\obj\Debug\net8.0\ref\BlogCore.Models.dll

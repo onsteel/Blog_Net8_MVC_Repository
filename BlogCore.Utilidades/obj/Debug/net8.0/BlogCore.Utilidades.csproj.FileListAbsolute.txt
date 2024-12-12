@@ -1,0 +1,11 @@
+C:\Repositorio\Proyectos de practica\Curso_Net8_MVC\BlogCore\BlogCore.Utilidades\bin\Debug\net8.0\BlogCore.Utilidades.deps.json
+C:\Repositorio\Proyectos de practica\Curso_Net8_MVC\BlogCore\BlogCore.Utilidades\bin\Debug\net8.0\BlogCore.Utilidades.dll
+C:\Repositorio\Proyectos de practica\Curso_Net8_MVC\BlogCore\BlogCore.Utilidades\bin\Debug\net8.0\BlogCore.Utilidades.pdb
+C:\Repositorio\Proyectos de practica\Curso_Net8_MVC\BlogCore\BlogCore.Utilidades\obj\Debug\net8.0\BlogCore.Utilidades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repositorio\Proyectos de practica\Curso_Net8_MVC\BlogCore\BlogCore.Utilidades\obj\Debug\net8.0\BlogCore.Utilidades.AssemblyInfoInputs.cache
+C:\Repositorio\Proyectos de practica\Curso_Net8_MVC\BlogCore\BlogCore.Utilidades\obj\Debug\net8.0\BlogCore.Utilidades.AssemblyInfo.cs
+C:\Repositorio\Proyectos de practica\Curso_Net8_MVC\BlogCore\BlogCore.Utilidades\obj\Debug\net8.0\BlogCore.Utilidades.csproj.CoreCompileInputs.cache
+C:\Repositorio\Proyectos de practica\Curso_Net8_MVC\BlogCore\BlogCore.Utilidades\obj\Debug\net8.0\BlogCore.Utilidades.dll
+C:\Repositorio\Proyectos de practica\Curso_Net8_MVC\BlogCore\BlogCore.Utilidades\obj\Debug\net8.0\refint\BlogCore.Utilidades.dll
+C:\Repositorio\Proyectos de practica\Curso_Net8_MVC\BlogCore\BlogCore.Utilidades\obj\Debug\net8.0\BlogCore.Utilidades.pdb
+C:\Repositorio\Proyectos de practica\Curso_Net8_MVC\BlogCore\BlogCore.Utilidades\obj\Debug\net8.0\ref\BlogCore.Utilidades.dll
